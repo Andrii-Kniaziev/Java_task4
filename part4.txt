@@ -1,0 +1,4 @@
+Исходный файл брать небольшим по размеру.
+Достаточно несколько строк и несколько предложений.
+Before we cut down on fat, we have to know a bit more.
+The biggest problem comes when these things are hidden.
